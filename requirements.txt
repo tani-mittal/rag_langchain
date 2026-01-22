@@ -1,0 +1,42 @@
+
+python-dotenv==1.0.1
+boto3>=1.34.0
+botocore>=1.34.0
+
+# LangChain / LangGraph
+langchain>=0.2.10
+langchain-community>=0.2.10
+langchain-aws>=0.1.15
+langgraph>=0.2.35
+
+# Text utils
+tiktoken>=0.7.0
+
+# PDF parsing
+pymupdf>=1.24.7
+
+# PPTX parsing
+python-pptx>=0.6.23
+
+# DOCX parsing
+python-docx>=1.1.2
+
+# XLSX parsing
+pandas>=2.2.2
+openpyxl>=3.1.5
+
+# Optional: pretty printing / CLI
+rich>=13.7.1
+
+langchain 
+langchain-aws
+langchain-community
+langgraph
+boto3 
+faiss-cpu 
+pypdf 
+python-pptx 
+python-docx 
+openpyxl
+tiktoken 
+sentence-transformers
